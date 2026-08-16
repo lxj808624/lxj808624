@@ -1,75 +1,78 @@
-<div align="center">
+<!-- profile-stats starts -->
+**量化策略研究员 · 全栈开发者 · DeepSeek Harness 生态贡献者** | GitHub: **1 followers** · **4 stars** · **1 forks** · 12+ 开源工具
+<!-- profile-stats ends -->
 
-# 👋 你好，我是 林木茂盛
-
-**量化策略研究员 · 全栈开发者 · DeepSeek Harness 生态贡献者**
-
-热爱把想法变成可运行的代码 —— 从券商金工研报复现，到 AI Agent 工具链。
-
-[![GitHub](https://img.shields.io/badge/GitHub-lxj808624-181717?style=flat&logo=github&logoColor=white)](https://github.com/lxj808624)
-[![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-Contributor-4D6BFE?style=flat&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
-[![npm](https://img.shields.io/npm/v/dsh-tool-git?style=flat&logo=npm&label=dsh-tool-git)](https://www.npmjs.com/package/dsh-tool-git)
+Hey 👋 I'm **林木茂盛 (lxj808624)**. I turn quant research reports into runnable strategies, and ideas into open-source tools for AI agents. Currently building for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) ecosystem.
 
 ---
 
-</div>
+**About me**
 
-## 🚀 近期亮点
+- 💼 Quant researcher — replicating broker quant strategy reports ([QuantsPlaybook](https://github.com/lxj808624/QuantsPlaybook)) into executable code
+- 🤖 Creator of [**dsh-tool-git**](https://github.com/lxj808624/dsh-tool-git) — structured safe Git tools for DeepSeek Harness, published on **npm** + **GitHub** and listed in the official [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
+- ⚙️ Building quant pipelines: [panda_quantflow](https://github.com/lxj808624/panda_quantflow) · [panda_factor](https://github.com/lxj808624/panda_factor)
+- 🤖 Automating daily life: [WeChatRobot](https://github.com/lxj808624/WeChatRobot) — Gemini / ChatGPT / ChatGLM / iFlytek, idioms game, weather, news digest, scheduled tasks
+- 🧠 Deep-diving **AI Agent tooling** · TypeScript / Node.js / Python
+- ✍️ Writing at [blog](https://lxj808624.github.io/blog/) · Reach me on [GitHub](https://github.com/lxj808624)
 
-**[dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) —— DeepSeek Harness 结构化安全 Git 工具插件**（我主导开发并双平台发布）
-
-> 12 个结构化 Git 工具 + 破坏性命令安全门，让 AI Agent 安全高效地操作 Git。
-
-```
-npm install / 直接安装：
-dsh plugin --profile web add dsh-tool-git
-```
-
-- ✅ 已发布至 **npm**（`dsh-tool-git@0.1.2`）与 **GitHub**（`dsh-plugin` 话题）
-- ✅ 入选 **awesome-deepseek-harness** 官方生态列表
-- ✅ 33 个测试全绿 · CI 全绿 · 中英文档齐全
-
-## 🧠 技术栈
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Quant](https://img.shields.io/badge/Quant_Research-5C2D91?style=flat&logo=chartline&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI_Agent_Tooling-4D6BFE?style=flat&logo=openai&logoColor=white)
-
-## 📊 GitHub 数据
-
-<div align="center">
-
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=lxj808624&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/lxj808624)
-
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=lxj808624&layout=compact&theme=tokyonight)](https://github.com/lxj808624)
-
-</div>
-
-## 📦 代表项目
-
-| 项目 | 说明 | 亮点 |
-|---|---|---|
-| [**dsh-tool-git**](https://github.com/lxj808624/dsh-tool-git) | DeepSeek Harness 结构化安全 Git 工具 | npm + GitHub 双平台发布 · 入选 awesome 生态列表 |
-| [**QuantsPlaybook**](https://github.com/lxj808624/QuantsPlaybook) | 量化研究 · 券商金工研报复现 | 研报 → 可运行策略代码 |
-| [**panda_quantflow**](https://github.com/lxj808624/panda_quantflow) | 量化流程引擎 | 策略开发流水线 |
-| [**panda_factor**](https://github.com/lxj808624/panda_factor) | 因子研究 | 因子挖掘与检验 |
-| [**WeChatRobot**](https://github.com/lxj808624/WeChatRobot) | 微信机器人 | 接入 Gemini / ChatGPT / ChatGLM / 讯飞星火，支持成语接龙、天气、新闻摘要、定时任务 |
-
-## 🌱 正在做
-
-- 深耕 **AI Agent 工具链** 与 **量化研究自动化**
-- 参与 DeepSeek Harness 开源社区：提交生态 bug 报告、贡献插件、参与讨论
-- 把券商金工研报中的策略思想工程化、可复现
+<code><img height="22" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="22" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="22" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="22" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
 
-<div align="center">
+#### 📦 Featured
 
-*保持好奇，保持输出 —— "探索未至之境。"*
+<a href="https://github.com/lxj808624/dsh-tool-git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxj808624&repo=dsh-tool-git&theme=tokyonight" />
+</a>
+<a href="https://github.com/lxj808624/QuantsPlaybook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxj808624&repo=QuantsPlaybook&theme=tokyonight" />
+</a>
 
-⭐ 如果你觉得我的项目有用，欢迎点个 Star 支持！
+<a href="https://github.com/lxj808624/panda_quantflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxj808624&repo=panda_quantflow&theme=tokyonight" />
+</a>
+<a href="https://github.com/lxj808624/WeChatRobot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxj808624&repo=WeChatRobot&theme=tokyonight" />
+</a>
 
-</div>
+---
+
+<table width="1200px" cellspacing="0" cellpadding="0">
+<tr>
+<td width="600px" valign="top">
+
+**Latest Releases**
+
+<!-- recent_releases starts -->
+• [v0.1.3](https://github.com/lxj808624/dsh-tool-git/releases/tag/v0.1.3) - 2026-08-14
+• [v0.1.2](https://github.com/lxj808624/dsh-tool-git/releases/tag/v0.1.2) - 2026-08-14
+• [v0.1.1](https://github.com/lxj808624/dsh-tool-git/releases/tag/v0.1.1) - 2026-08-13
+• [v0.1.0](https://github.com/lxj808624/dsh-tool-git/releases/tag/v0.1.0) - 2026-08-13
+<!-- recent_releases ends -->
+
+</td>
+<td width="600px" valign="top">
+
+**Recent Posts**
+
+<!-- blog starts -->
+- [发布首日就有社区提交修复：一次真实的开源维护手记](https://lxj808624.github.io/blog/dsh-tool-git-maintainer.html) - 2026-08-15
+<!-- blog ends -->
+
+</td>
+</tr>
+</table>
+
+---
+
+📈 **GitHub Stats**
+
+| [![stats](https://github-readme-stats.vercel.app/api?username=lxj808624&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/lxj808624) | [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxj808624&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/lxj808624) |
+| --- | --- |
+
+---
+
+*保持好奇，保持输出 —— "探索未至之境。" ⭐ If my projects help you, a star means a lot!*
