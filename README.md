@@ -7,11 +7,7 @@ Hey 👋 I'm **林木茂盛 (lxj808624)** — a quant researcher & full-stack de
 **What I build & contribute to**
 
 - 🤖 Creator of [**dsh-tool-git**](https://github.com/lxj808624/dsh-tool-git) — structured safe Git tools for DeepSeek Harness, published on [npm](https://www.npmjs.com/package/dsh-tool-git) and listed in the official [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
-- 📊 **QuantScale** ([quantskills](https://github.com/quantskills)) contributor — 46 commits across 4 agent-skill repos:
-  - [skill-etf-flow-radar](https://github.com/quantskills/skill-etf-flow-radar/commits?author=lxj808624) · 20 commits
-  - [skill-portfolio-blacklitterman](https://github.com/quantskills/skill-portfolio-blacklitterman/commits?author=lxj808624) · 15 commits
-  - [alpha-a2-first-limit-up-with-low-open](https://github.com/quantskills/alpha-a2-first-limit-up-with-low-open/commits?author=lxj808624) · 8 commits
-  - [skill-dl-autoencoder-anomaly](https://github.com/quantskills/skill-dl-autoencoder-anomaly/commits?author=lxj808624) · 3 commits
+- 📊 Contributor at **QuantScale** ([quantskills](https://github.com/quantskills)) — 46 commits across 4 agent-skill repos (ETF flow radar · Black-Litterman portfolio · A2 first-limit-up alpha · autoencoder anomaly detection)
 - ✍️ Writing at [blog](https://lxj808624.github.io/blog/) · TypeScript / Node.js / Python / Quant research
 
 <table width="1200px" cellspacing="0" cellpadding="0">
