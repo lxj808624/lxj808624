@@ -8,7 +8,7 @@ Hey 👋 I'm **林木茂盛 (lxj808624)**. I turn quant research reports into ru
 
 **About me**
 
-- 💼 Quant researcher — replicating broker quant strategy reports ([QuantsPlaybook](https://github.com/lxj808624/QuantsPlaybook)) into executable code
+- 💼 Quant researcher — replicating broker quant strategy reports into executable code
 - 🤖 Creator of [**dsh-tool-git**](https://github.com/lxj808624/dsh-tool-git) — structured safe Git tools for DeepSeek Harness, published on **npm** + **GitHub** and listed in the official [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
 - ⚙️ Building quant pipelines: [panda_quantflow](https://github.com/lxj808624/panda_quantflow) · [panda_factor](https://github.com/lxj808624/panda_factor)
 - 🤖 Automating daily life: [WeChatRobot](https://github.com/lxj808624/WeChatRobot) — Gemini / ChatGPT / ChatGLM / iFlytek, idioms game, weather, news digest, scheduled tasks
@@ -24,19 +24,12 @@ Hey 👋 I'm **林木茂盛 (lxj808624)**. I turn quant research reports into ru
 
 #### 📦 Featured
 
-<a href="https://github.com/lxj808624/dsh-tool-git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxj808624&repo=dsh-tool-git&theme=tokyonight" />
-</a>
-<a href="https://github.com/lxj808624/QuantsPlaybook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxj808624&repo=QuantsPlaybook&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/lxj808624/panda_quantflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxj808624&repo=panda_quantflow&theme=tokyonight" />
-</a>
-<a href="https://github.com/lxj808624/WeChatRobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxj808624&repo=WeChatRobot&theme=tokyonight" />
-</a>
+| | | |
+|---|---|---|
+| [**dsh-tool-git**](https://github.com/lxj808624/dsh-tool-git) · ⭐4 | DeepSeek Harness 结构化安全 Git 工具插件 · **npm 发布** · 入选官方 awesome 列表 | [npm](https://www.npmjs.com/package/dsh-tool-git) · [GitHub](https://github.com/lxj808624/dsh-tool-git) |
+| [**QuantsPlaybook**](https://github.com/lxj808624/QuantsPlaybook) | 量化研究 · 券商金工研报复现 | [GitHub](https://github.com/lxj808624/QuantsPlaybook) |
+| [**panda_quantflow**](https://github.com/lxj808624/panda_quantflow) | 量化流程引擎 · 策略开发流水线 | [GitHub](https://github.com/lxj808624/panda_quantflow) |
+| [**WeChatRobot**](https://github.com/lxj808624/WeChatRobot) | 微信机器人 · Gemini/ChatGPT/ChatGLM/讯飞星火 | [GitHub](https://github.com/lxj808624/WeChatRobot) |
 
 ---
 
@@ -65,13 +58,6 @@ Hey 👋 I'm **林木茂盛 (lxj808624)**. I turn quant research reports into ru
 </td>
 </tr>
 </table>
-
----
-
-📈 **GitHub Stats**
-
-| [![stats](https://github-readme-stats.vercel.app/api?username=lxj808624&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/lxj808624) | [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxj808624&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/lxj808624) |
-| --- | --- |
 
 ---
 
