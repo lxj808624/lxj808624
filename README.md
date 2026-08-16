@@ -7,7 +7,7 @@ Hey 👋 I'm **林木茂盛 (lxj808624)** — a quant researcher & full-stack de
 **What I build & contribute to**
 
 - 🤖 Creator of [**dsh-tool-git**](https://github.com/lxj808624/dsh-tool-git) — structured safe Git tools for DeepSeek Harness, published on [npm](https://www.npmjs.com/package/dsh-tool-git) and listed in the official [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
-- 📊 Contributor at **QuantScale** ([quantskills](https://github.com/quantskills)) — 46 commits across 4 agent-skill repos (ETF flow radar · Black-Litterman portfolio · A2 first-limit-up alpha · autoencoder anomaly detection)
+- 📊 Contributor at **QuantSkills** ([quantskills](https://github.com/quantskills)) — 46 commits across 4 agent-skill repos (ETF flow radar · Black-Litterman portfolio · A2 first-limit-up alpha · autoencoder anomaly detection)
 - ✍️ Writing at [blog](https://lxj808624.github.io/blog/) · TypeScript / Node.js / Python / Quant research
 
 <table width="1200px" cellspacing="0" cellpadding="0">
