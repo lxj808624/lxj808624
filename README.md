@@ -1,5 +1,5 @@
 <!-- profile-stats starts -->
-**量化策略研究员 · 全栈开发者 · DeepSeek Harness 生态贡献者** | GitHub: **1 followers** · **4 stars** · **1 forks** · 12+ 开源工具
+**量化策略研究员 · 全栈开发者 · DeepSeek Harness 生态贡献者** | GitHub: **1 followers** · **3 stars** · **1 forks** · 12+ 开源工具
 <!-- profile-stats ends -->
 
 Hey 👋 I'm **林木茂盛 (lxj808624)** — a quant researcher & full-stack developer building tools for the AI-agent ecosystem.
